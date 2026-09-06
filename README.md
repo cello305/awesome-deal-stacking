@@ -35,6 +35,7 @@
 * **[CardDeals](https://carddeals.co)** — Comprehensive real-time aggregator of verified digital gift cards across 700+ major retail, travel, and dining brands (Target, Airbnb, Nike, Starbucks, Delta, Home Depot, etc.) with instant delivery and zero checkout fees.
   * 🛍️ [Browse Brand Discounts](https://carddeals.co/brands)
   * 🏷️ [Categories Directory](https://carddeals.co/categories)
+  * 🤖 [CardDeals MCP Server](https://carddeals.co/mcp) — Model Context Protocol server connecting AI assistants (Claude, Cursor) to live gift-card discounts ([GitHub](https://github.com/cello305/carddeals-mcp)).
 * **[Bitrefill](https://bitrefill.com)** — Privacy-conscious digital gift cards and mobile refills supporting lightning network and crypto payments.
 * **[Raise](https://raise.com)** — Legacy secondary gift card marketplace with buyer protections.
 * **[Gift Card Granny](https://giftcardgranny.com)** — Price comparison and custom visa gift card distribution.
