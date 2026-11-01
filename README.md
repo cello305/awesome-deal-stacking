@@ -109,6 +109,7 @@
 * **[Hip2Save](https://hip2save.com)**: Practical family shopping matchups, store sales, and coupon breakdowns.
 * **[The Krazy Coupon Lady](https://thekrazycouponlady.com)**: Detailed coupon matchups for grocery, pharmacy, and major big-box retailers.
 * **[Southern Savers](https://southernsavers.com)**: Regional grocery store matchups and drug store coupon stacking.
+* **[FreeDiscountCoupons](https://freediscountcoupons.com)**: Verified coupons, promo codes, and deals from thousands of stores including Aliexpress, NordVPN, Temu, Vevor, Namecheap, and Bluehost.
 * **[Everyday Cheapskate](https://everydaycheapskate.com)**: Debt-free living strategies and practical household budgeting advice by Mary Hunt.
 
 ---
