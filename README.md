@@ -55,6 +55,7 @@
 * **[PayPal Honey](https://joinhoney.com)**: Automated checkout discount code testing and Honey Gold reward points.
 * **[Wethrift](https://wethrift.com)**: Crowdsourced coupon verification engine tracking active promo codes.
 * **[SmartyPlus](https://joinsmarty.com)**: Automated coupon application with premium cashback rebates.
+* **[YayCodes](https://yaycodes.com)**: Coupon-code directory that tests each code in the merchant's real cart and records a dated Worked/Failed checkout result.
 
 ---
 
